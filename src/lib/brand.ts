@@ -14,6 +14,11 @@ export const brand = {
     en: "Discover Your MBTI",
   },
 
+  subtitle: {
+    vi: "Bài test MBTI song ngữ với giao diện hiện đại.",
+    en: "A bilingual MBTI quiz with a modern interface.",
+  },
+
   description: {
     vi: "Bài test MBTI song ngữ với giao diện hiện đại và kết quả trực quan.",
     en: "A bilingual MBTI quiz with a modern interface and visual results.",
